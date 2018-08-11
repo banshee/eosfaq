@@ -1,4 +1,4 @@
-# James Moore's EOS Developer FAQ
+# James Moore's EOS developer notes
 
 ## What version of EOS does this cover?
 
