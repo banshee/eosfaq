@@ -2,7 +2,7 @@
 
 ## How do I configure CLion for EOS development (eos itself, not contracts)?
 
-1. Find the options that eosio_build.sh uses
+* Find the options that eosio_build.sh uses
 
 Normally (not using CLion), you build eos using the 
 eosio_build.sh script. CLion wants to run cmake directly, 
@@ -44,6 +44,6 @@ Add that, and you end up with something like:
 -DWASM_ROOT= -DCORE_SYMBOL_NAME=SYS -DOPENSSL_ROOT_DIR=/usr/include/openssl -DBUILD_MONGO_DB_PLUGIN=true -DENABLE_COVERAGE_TESTING=false -DBUILD_DOXYGEN=false -DBOOST_ROOT=/home/james/opt/boost
 ```
 
-Add that to your settings under ```CMake options```:
+* Add those options to your CLion settings under ```CMake options```:
 
 ![CLion settings](graphics/cmakeSettingsForFAQ.png "CLion settings")
