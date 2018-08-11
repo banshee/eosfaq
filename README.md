@@ -1,5 +1,22 @@
 # James Moore's EOS Developer FAQ
 
+## What version of EOS does this cover?
+
+FAQ Updated Sat Aug 11 09:58:31 PDT 2018.
+
+Latest commit is:
+
+```
+commit 4f4e5c225afa4d4e82cb8283074d8311a0178887 (HEAD -> master, tag: v1.1.4, origin/master, origin/HEAD)
+Merge: ad4ba2831 e1d074016
+Author: wanderingbort <bart.wyatt@block.one>
+Date:   Tue Aug 7 20:16:11 2018 -0400
+
+    Merge pull request #5098 from EOSIO/release/1.1.x
+    
+    Release 1.1.4
+```
+
 ## How do I configure CLion for EOS development (eos itself, not contracts)?
 
 * Find the options that eosio_build.sh uses
