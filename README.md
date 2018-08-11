@@ -9,7 +9,7 @@ eosio_build.sh script. CLion wants to run cmake directly,
 so you'll need to figure out the options that the build 
 script passes to CMake.
 
-I usually just run the script using:
+I usually just run the script (in a Linux terminal) using:
 
     script foo -c "bash -x eosio_build.sh"
 
