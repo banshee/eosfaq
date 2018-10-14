@@ -17,6 +17,10 @@ Date:   Tue Oct 9 18:55:48 2018 -0400
     Release 1.3.2
 ```
 
+## Wallets
+
+[Set up a development wallet](WALLETS.md)
+
 ## How do I configure CLion for EOS development (eos itself, not contracts)?
 
 * Find the options that eosio_build.sh uses
