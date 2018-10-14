@@ -1,5 +1,7 @@
 # James Moore's EOS developer notes
 
+This is definitely a work in progress, and at this point is really just notes to myself.  If you find it useful, that's wonderful.
+
 ## What version of EOS does this cover?
 
 FAQ Updated Sun Oct 14 09:49:32 PDT 2018
@@ -21,6 +23,9 @@ Date:   Tue Oct 9 18:55:48 2018 -0400
 
 [Set up a development wallet](WALLETS.md)
 
+## Dev environment
+
+[Set up a development environment](DEVENV.md)
 ## How do I configure CLion for EOS development (eos itself, not contracts)?
 
 * Find the options that eosio_build.sh uses
