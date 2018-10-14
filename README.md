@@ -2,19 +2,19 @@
 
 ## What version of EOS does this cover?
 
-FAQ Updated Sat Aug 11 09:58:31 PDT 2018.
+FAQ Updated Sun Oct 14 09:49:32 PDT 2018
 
 Latest commit is:
 
 ```
-commit 4f4e5c225afa4d4e82cb8283074d8311a0178887 (HEAD -> master, tag: v1.1.4, origin/master, origin/HEAD)
-Merge: ad4ba2831 e1d074016
+commit 1e9ca55cc35b003c81ff4da780fb3cb869a16607 (HEAD -> master, tag: v1.3.2, origin/master, origin/HEAD)
+Merge: 8f0f54cf0 76635bac4
 Author: wanderingbort <bart.wyatt@block.one>
-Date:   Tue Aug 7 20:16:11 2018 -0400
+Date:   Tue Oct 9 18:55:48 2018 -0400
 
-    Merge pull request #5098 from EOSIO/release/1.1.x
+    Merge pull request #5943 from EOSIO/release/1.3.x
     
-    Release 1.1.4
+    Release 1.3.2
 ```
 
 ## How do I configure CLion for EOS development (eos itself, not contracts)?
